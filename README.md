@@ -79,6 +79,9 @@ X: https://x.com/HbjarkoZedo/status/1867993286151139339
 Video:
 
 
-https://github.com/user-attachments/assets/ae0c9b80-3045-432c-a8c3-2865b466de41
+
+https://github.com/user-attachments/assets/8a0464f3-debb-41b4-90e5-a5976d907264
+
+
 
 
