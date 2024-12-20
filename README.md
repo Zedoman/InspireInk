@@ -12,6 +12,14 @@ The InspireInk is a powerful tool designed to assist writers in crafting stories
 
 4. **Collaborative Storyboarding:** Facilitate real-time collaboration on storyboarding and writing.
 
+
+
+Video:
+
+
+
+https://github.com/user-attachments/assets/8a0464f3-debb-41b4-90e5-a5976d907264
+
 ### Steps
 
 1. **Clone the Repository:**
@@ -76,11 +84,6 @@ npm start
 X: https://x.com/HbjarkoZedo/status/1867993286151139339
 
 
-Video:
-
-
-
-https://github.com/user-attachments/assets/8a0464f3-debb-41b4-90e5-a5976d907264
 
 
 
