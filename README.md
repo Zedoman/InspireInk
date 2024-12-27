@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/8a0464f3-debb-41b4-90e5-a5976d907264
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/creative-writing-companion.git
+git clone https://github.com/Zedoman/InspireInk
 cd creative-writing-companion
 ```
 
